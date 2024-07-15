@@ -1,0 +1,4 @@
+/home/nicklaspank/Desktop/clockwork/build/CMakeFiles/slam.dir
+/home/nicklaspank/Desktop/clockwork/build/CMakeFiles/cnpy.dir
+/home/nicklaspank/Desktop/clockwork/build/CMakeFiles/edit_cache.dir
+/home/nicklaspank/Desktop/clockwork/build/CMakeFiles/rebuild_cache.dir
